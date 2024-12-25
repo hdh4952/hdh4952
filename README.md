@@ -8,6 +8,9 @@
   + 정컴 TechWeek-프로그래밍 경진대회 - 부산대학교 정보의생명공학대학장상, 금상(1st)
   + [2022 제 7회 부산 ICT 융합 해카톤](https://github.com/zune2222/Busan_7th_ICT_Hackathon_1978_BackEnd) - 동명대학교 SW 중심대학사업단장상, 우수상(3rd)
 
+# Experience
+- 2023 대학생 프로그래밍 경시대회(ICPC) 본선 진출 (61th)
+
 # Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
