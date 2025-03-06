@@ -9,7 +9,7 @@
   + [2022 제 7회 부산 ICT 융합 해카톤](https://github.com/zune2222/Busan_7th_ICT_Hackathon_1978_BackEnd) - 동명대학교 SW 중심대학사업단장상, 우수상(3rd)
 
 # Experience
-- 2023 대학생 프로그래밍 경시대회(ICPC) 본선 진출 (61th)
+- 2023 대학생 프로그래밍 경시대회(ICPC) 본선 진출 (62nd)
 
 # Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
