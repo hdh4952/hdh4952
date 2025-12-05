@@ -30,6 +30,10 @@
 - 동래고등학교 (2019.03 ~ 2022.02)
 - 부산대학교 정보컴퓨터공학부 (2022.03 ~ )
 
+# Military Service
+
+- Republic of Korea Air Force (2024.04.22 ~ 2026.01.21)
+
 # Certificate
 
 - 정보처리기능사 (2023.09 취득)
